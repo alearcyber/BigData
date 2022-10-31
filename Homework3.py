@@ -145,7 +145,7 @@ def linear_regression_analysis():
 
 def main():
     """entry point"""
-    #data_visualization() #question 1
+    data_visualization() #question 1
     linear_regression_analysis() # question 2
 
 
